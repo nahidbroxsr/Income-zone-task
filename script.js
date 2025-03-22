@@ -1,8 +1,8 @@
 const tasks = [
-    { id: 1, text: "Complete Task 1", img: "money.png", link: "https://example.com/task1" },
-    { id: 2, text: "Complete Task 2", img: "money.png", link: "https://example.com/task2" },
-    { id: 3, text: "Complete Task 3", img: "money.png", link: "https://example.com/task3" },
-    { id: 4, text: "Complete Task 4", img: "money.png", link: "https://example.com/task4" }
+    { id: 1, text: "Complete Task 1", img: "IMG_20250323_043838_834.png", link: "https://t.me/Earning_with_Nahid" },
+    { id: 2, text: "Complete Task 2", img: "IMG_20250323_043838_834.png", link: "https://example.com/task2" },
+    { id: 3, text: "Complete Task 3", img: "IMG_20250323_043838_834.png", link: "https://example.com/task3" },
+    { id: 4, text: "Complete Task 4", img: "IMG_20250323_043838_834.png", link: "https://example.com/task4" }
 ];
 
 const taskList = document.getElementById("task-list");
